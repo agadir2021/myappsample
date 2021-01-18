@@ -1,3 +1,2 @@
-When developing applications for a diverse and high-scale platform such as Azure Websites, 
-there’s never such a thing as enough information, right? Indeed, our customers are always 
+ 
 i love git...
