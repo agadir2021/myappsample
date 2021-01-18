@@ -1,0 +1,6 @@
+
+git status actually shows you information about your working tree
+ (still often called working directory back then), your staging area
+ (also called index) and your actual commits.  There are three separate
+ things to compare.  "Nothing to commit, working directory clean" means that you 1.
+ have no un-staged changes, 2. you have no staged changes. 
