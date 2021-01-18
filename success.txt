@@ -1,3 +1,2 @@
 
-git status actually shows you information about your working tree
- 
+git status actually shows you information about your
