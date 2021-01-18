@@ -1,0 +1,5 @@
+When developing applications for a diverse and high-scale platform such as Azure Websites, 
+there’s never such a thing as enough information, right? Indeed, our customers are always 
+on the lookout for more information, guidance and examples of using Azure’s vast abilities 
+to their advantage and this month, MSDN Magazine has decided to dedicate their issue
+ (July 2014) to Azure Websites
